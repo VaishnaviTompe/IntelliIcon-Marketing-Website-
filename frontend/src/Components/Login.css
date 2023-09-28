@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1638376776402-9a4b75fe21bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1954&q=80");
+   }
+
+.button1{
+    text-align: center;
+}
+.button1:hover{
+    opacity: 0.6;
+}
+
+.box{
+    border: 2px solid white;
+    border-radius: 3%;
+    margin-top: 10%;
+    margin-left: 34%;
+    margin-right: 34%;
+    padding: 2%;
+    background-color: #fff;
+}
+
+h3{
+    padding-bottom: 5%;
+    text-align: center;
+    color: black;
+}
+
+.input1:hover{
+    border-color: black;
+    padding: 14px;
+    background-color: #e7e4ebd2;
+}
+label{
+    font-size: 20px;
+}
